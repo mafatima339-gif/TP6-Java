@@ -80,7 +80,7 @@ class Livre {
          System.out.println(etu + " a emprunté : " + emprunts.get(etu));
      }
 
-     // 🔹 10. Rapport final
+     // Rapport final
      System.out.println("RAPPORT FINAL");
      System.out.println("Nombre de livres : " + livres.size());
      System.out.println("Nombre de catégories : " + categories.size());

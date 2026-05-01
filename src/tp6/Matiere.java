@@ -29,7 +29,7 @@ public class Matiere {
         //Copier dans TreeSet
         TreeSet<String> matieresTri = new TreeSet<>(matieres);
 
-        // 🔹 6. Afficher les matières triées
+        // Afficher les matières triées
         System.out.println("Matières triées ordre alphabétique :");
         for (String m : matieresTri) {
             System.out.println(m);
